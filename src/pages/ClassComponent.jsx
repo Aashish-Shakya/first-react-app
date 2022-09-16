@@ -13,7 +13,7 @@ class ClassComponent extends React.Component {
         console.log("Constructor")
     };
     render() {
-
+        console.log("Render")
         return (
             <div>
                 <p>This is a class Component</p>
